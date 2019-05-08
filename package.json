@@ -1,0 +1,25 @@
+{
+  "name": "code_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natdenice/TestGitOnNewSystem.git"
+  },
+  "author": "nat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natdenice/TestGitOnNewSystem/issues"
+  },
+  "homepage": "https://github.com/Natdenice/TestGitOnNewSystem#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-config-prettier": "^4.2.0"
+  }
+}

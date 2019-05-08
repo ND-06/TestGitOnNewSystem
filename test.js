@@ -1,12 +1,4 @@
-const calculate = (a,b) => {
-  return a * b;
-}
-console.log(calculate(10,9));
+/* eslint-disable no-console */
+const numbers = [10, 20, 30, 40, 50];
 
-const sort = (arr) =>  {
-  return arr.reverse();
-}
-
-const arrayNew = ["Miami", 'London', 'Paris'];
-
-console.log(sort(arrayNew));
+const add = numbers.map(number => console.log(number));
